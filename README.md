@@ -1,4 +1,4 @@
-<h1 align="center" style="margin-bottom: 0;">🏰 Minify – Embark on the Ultimate Coding Quest! ⚔️</h1>
+<h1 align="center" style="margin-bottom: 0;">:european_castle: Minify – Embark on the Ultimate Coding Quest! :ninja:</h1>
 Welcome to Minify, a realm of small but mighty projects! Each project here is a step in your adventure — a challenge to solve, a puzzle to unlock. As you embark on this coding quest, you’ll level up your skills and discover new treasures (aka coding knowledge). Let’s start this legendary journey!
 
 <p align="center">
@@ -7,7 +7,7 @@ Welcome to Minify, a realm of small but mighty projects! Each project here is a 
 
 ---
 
-##  🗺️ Your Journey Begins Here!
+## :world_map: Your Journey Begins Here!
 - [What is Minify?](what-is-minify)
 - [Getting Started](getting-started)
 - [How It Works](how-it-works)
@@ -17,13 +17,13 @@ Welcome to Minify, a realm of small but mighty projects! Each project here is a 
 
 
 ---
-## ⚔️ What is **Minify**?
+## :classical_building: What is **Minify**?
 
 **Minify** is your coding adventure map. It’s a collection of smaller, self-contained projects that I’ve built during my learning journey. Each one serves as a checkpoint where you can practice different skills and solve coding challenges. With each new project, you’ll unlock a new skill and move closer to becoming a coding champion!
 
 ---
 
-## 🏞️ Getting Started — The Quest Awaits!
+##  :shield: Getting Started — The Quest Awaits!
 
 1. **Clone the Repo**  
 2. **Choose Your Path**: Dive into any project folder  
@@ -33,7 +33,7 @@ Welcome to Minify, a realm of small but mighty projects! Each project here is a 
 
 
 
-## 🏹 How It Works — Ready Your Sword!
+## :crossed_swords: How It Works — Ready Your Sword!
 
 Each project resides in its own folder, and each folder contains a `README.md` file with all the essential details:
 
@@ -43,7 +43,7 @@ Each project resides in its own folder, and each folder contains a `README.md` f
 
 ---
 
-## 🏰 Join the Adventure — Contribution Guidelines
+## :beginner: Join the Adventure — Contribution Guidelines
 
 Want to be part of the quest? Here’s how you can contribute to **Minify**:
 
@@ -62,13 +62,13 @@ Want to be part of the quest? Here’s how you can contribute to **Minify**:
 
 ---
 
-## ⚔️ License — Your Code, Your Kingdom
+## :spiral_notepad: License — Your Code, Your Kingdom
 
 This project is licensed under the **MIT License**. Feel free to use and modify the code, but make sure to respect the rules. Check out the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🏞️ Contact the Questmaster
+## :speaking_head: Contact the Questmaster
 
 Have any questions, or need guidance along your journey? Reach out to me:
 
@@ -78,6 +78,6 @@ Have any questions, or need guidance along your journey? Reach out to me:
 ---
 
 <p align="center">
-  "Code your adventure, and let the journey begin!" ⚔️
+  "Code your adventure, and let the journey begin!" :medal_military:
 </p>
 
