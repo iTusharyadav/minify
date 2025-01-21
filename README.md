@@ -2,18 +2,19 @@
 Welcome to Minify, a realm of small but mighty projects! Each project here is a step in your adventure — a challenge to solve, a puzzle to unlock. As you embark on this coding quest, you’ll level up your skills and discover new treasures (aka coding knowledge). Let’s start this legendary journey!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jjfGxg7vscY/giphy.gif" alt="Adventure GIF" width="400">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNldXA4M3J0NjRqZHB2cTF4dW1yNmRkM3Bqb3YyOTR0aTVmcm95YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gkDfMPiEOe3kO6GdUb/giphy.gif" alt="Adventure GIF" width="400">
+  <!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1sbGF0b25kcHg4YzB1em10OTU1ZXprbGRtZXFzdG9hcDBnd3Z2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DQdrIDssFKwUe2qrbu/giphy.gif" alt="Adventure GIF" width="400"> -->
 </p>
 
 ---
 
 ## :world_map: Your Journey Begins Here!
-- [What is Minify?](what-is-minify)
-- [Getting Started](getting-started)
-- [How It Works](how-it-works)
-- [Contribution Guidelines](contribution-guidelines)
-- [License](memo-license)
-- [Contact the Questmaster](contact-the-questmaster)
+- [What is Minify?](#classical_building-what-is-minify)
+- [Getting Started](#shield-getting-started-the-quest-awaits)
+- [How It Works](#crossed_swords-how-it-works—ready-your-sword!)
+- [Contribution Guidelines](#beginner-join-the-adventure—contribution-guidelines)
+- [License](#spiral_notepad-memo-license—your-code,-your-kingdom)
+- [Contact the Questmaster](#speaking_head-contact-the-questmaster)
 
 
 ---
