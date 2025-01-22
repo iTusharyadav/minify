@@ -1,10 +1,9 @@
 <h1 align="center" style="margin-bottom: 0;">:european_castle: Minify – Embark on the Ultimate Coding Quest! :ninja:</h1>
-Welcome to Minify, a realm of small but mighty projects! Each project here is a step in your adventure — a challenge to solve, a puzzle to unlock. As you embark on this coding quest, you’ll level up your skills and discover new treasures (aka coding knowledge). Let’s start this legendary journey!
+<p style="margin-bottom: 20px;">Welcome to Minify, a realm of small but mighty projects! Each project here is a step in your adventure — a challenge to solve, a puzzle to unlock. As you embark on this coding quest, you’ll level up your skills and discover new treasures (aka coding knowledge). Let’s start this legendary journey!</p>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNldXA4M3J0NjRqZHB2cTF4dW1yNmRkM3Bqb3YyOTR0aTVmcm95YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gkDfMPiEOe3kO6GdUb/giphy.gif" alt="Adventure GIF" width="400" style="margin-bottom: 20px;">
 </p>
-
 
 
 
