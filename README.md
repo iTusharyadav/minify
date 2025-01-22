@@ -16,6 +16,14 @@ Welcome to Minify, a realm of small but mighty projects! Each project here is a 
 - [License](#spiral_notepad-memo-license—your-code,-your-kingdom)
 - [Contact the Questmaster](#speaking_head-contact-the-questmaster)
 
+- ## :world_map: Your Journey Begins Here!
+- [What is Minify?](#classical_building-what-is-minify)
+- [Getting Started](#shield-getting-started--the-quest-awaits)
+- [How It Works](#crossed_swords-how-it-works--ready-your-sword)
+- [Contribution Guidelines](#beginner-join-the-adventure--contribution-guidelines)
+- [License](#spiral_notepad-license--your-code-your-kingdom)
+- [Contact the Questmaster](#speaking_head-contact-the-questmaster)
+
 
 ---
 ## :classical_building: What is **Minify**?
@@ -31,7 +39,6 @@ Welcome to Minify, a realm of small but mighty projects! Each project here is a 
 3. **Follow the Trail**: Each project contains a `README.md` with step-by-step instructions to guide you through the setup and execution
 
 ---
-
 
 
 ## :crossed_swords: How It Works — Ready Your Sword!
