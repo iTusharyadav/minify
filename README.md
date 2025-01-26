@@ -85,6 +85,6 @@ Have any questions, or need guidance along your journey? Reach out to me:
 ---
 
 <p align="center">
-  "Code your adventure, and let the journey begin!"
+  "Code your adventure, and let the journey begin!" :medal_military:
 </p>
 
