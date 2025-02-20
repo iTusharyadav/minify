@@ -15,7 +15,7 @@ Welcome to Minify, a realm of small but mighty projects! Each project here is a 
 
 ---
 
-- ## :world_map: Your Journey Begins Here!
+## :world_map: Your Journey Begins Here!
 - [What is Minify?](#classical_building-what-is-minify)
 - [Getting Started](#shield-getting-started--the-quest-awaits)
 - [How It Works](#crossed_swords-how-it-works--ready-your-sword)
